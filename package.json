@@ -1,0 +1,11 @@
+{
+  "name": "demo-ql",
+  "version": "1.0.0",
+  "description": "A basci GraphQL Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

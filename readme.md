@@ -1,0 +1,1 @@
+A basci GraphQL Demo
